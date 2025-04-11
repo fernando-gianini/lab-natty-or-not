@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AI! Nando em Ação: Meu Projeto com Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é o resultado prático do curso de Fundamentos de IA da DIO.
+Utilizei ferramentas de IA generativa para criar um conteúdo completo: texto com ChatGPT, voz com ElevenLabs, vídeo com D-ID e uma apresentação visual na plataforma Gamma.
+Todo o processo foi documentado e compartilhado no meu canal na Twitch, o “AI! Nando”, focado em tecnologia, QA, IA e criação de conteúdo ao vivo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (OpenAI) – Criação e refinamento de textos e roteiros.
+
+ElevenLabs – Geração de áudio com clonagem de voz (Text-to-Speech).
+
+D-ID – Criação de vídeo com avatar falante sincronizado ao áudio.
+
+Gamma.app – Elaboração da apresentação visual (ebook interativo).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação dos conteúdos foi feita de forma estruturada, utilizando ferramentas de IA generativa em cada etapa.
+Começamos com o ChatGPT para elaborar os roteiros e textos base, definindo o tom da narrativa e o conteúdo principal.
+Em seguida, utilizamos o ElevenLabs para gerar o áudio a partir do texto, escolhendo uma voz sintética que se adequasse ao estilo desejado. Com o áudio pronto, passamos para a plataforma D-ID, onde criamos um vídeo com um avatar falante sincronizado com a narração.
+Por fim, toda a jornada foi documentada e transformada em uma apresentação interativa na Gamma.app, reunindo os insights, processos e tecnologias utilizadas no projeto.
+A experiência completa foi compartilhada no canal "AI! Nando", na Twitch, unindo aprendizado prático com criação de conteúdo ao vivo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresentação visual do projeto desenvoldido na plataforma Gamma](https://drive.google.com/file/d/1gZA700l90nBaPa0hvp773YgAzTSQLAcZ/view?usp=sharing)
+[Audio utilizado no projeto desenvoldido na plataforma ElevenLabs](https://drive.google.com/file/d/1aNdM0-JcHU-6wRgXmD31_5YDY0mH-SyO/view?usp=sharing)
+[Video elabora no projeto desenvolvido na plataforma D -ID](https://drive.google.com/file/d/1ukweS2VBAEQCG62V1JEWXGSroAYIUDnQ/view?usp=sharing)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Desenvolver esse projeto com IA generativa foi uma experiência transformadora.
+Ver ideias saírem do papel com o apoio de tecnologias tão avançadas mostrou o quanto estamos vivendo um momento único na história da criação de conteúdo.
+Cada ferramenta teve seu papel, e juntas formaram um ecossistema criativo poderoso, acessível e versátil. Mais do que apenas aprender, foi possível aplicar na prática, experimentar e compartilhar tudo em tempo real no meu canal.
+Essa jornada não só reforçou meu interesse pela inteligência artificial, como também abriu portas para novas formas de produzir, ensinar e inspirar outras pessoas.
+A sensação é de que estamos apenas começando a explorar o potencial dessa nova era.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
